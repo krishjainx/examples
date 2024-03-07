@@ -1,6 +1,6 @@
 # Bacalhau Code Examples
 
-This is a collection of worked code examples that use Bacalhau.
+This is a collection of examples that use Bacalhau.
 For ease of access, they are rendered in the docs at https://docs.bacalhau.org/examples/
 
 * [Bacalhau Core Repository](https://github.com/filecoin-project/bacalhau)
